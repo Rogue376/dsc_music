@@ -1,0 +1,61 @@
+{
+  "_from": "discord-music-bot",
+  "_id": "discord-music-bot@2.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ACqW7vfy5hCHWAmNOrPLjMMPxuI=",
+  "_location": "/discord-music-bot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord-music-bot",
+    "name": "discord-music-bot",
+    "escapedName": "discord-music-bot",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-music-bot/-/discord-music-bot-2.3.0.tgz",
+  "_shasum": "002a96eef7f2e6108758098d3ab3cb8cc30fc6e2",
+  "_spec": "discord-music-bot",
+  "_where": "/",
+  "author": {
+    "name": "agubelu"
+  },
+  "bugs": {
+    "url": "https://github.com/agubelu/discord-music-bot/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "node-opus": "^0.2.4",
+    "request": "^2.79.0",
+    "ytdl-core": "^0.7.21"
+  },
+  "deprecated": false,
+  "description": "Simple music bot for Discord servers.",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/agubelu/discord-music-bot#readme",
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "license": "GPL-3.0",
+  "main": "musicbot.js",
+  "name": "discord-music-bot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agubelu/discord-music-bot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.3.0"
+}
